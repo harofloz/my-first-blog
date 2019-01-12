@@ -25,7 +25,7 @@ SECRET_KEY = 'pli-g0f!e%qj&6wp427ki5r8lu&-+%^kl+qf+a$!y3pixj$upq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<lafanet>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'lafanet.pythonanywhere.com']
 
 
 # Application definition
